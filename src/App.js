@@ -24,7 +24,7 @@ function App() {
           Fall 2022 Cloud for Developers
         </p>
         <p>
-          {counter}
+          Counter: {counter}
         </p>
         <button onClick={increment}>+</button>
         <button onClick={decrement}>-</button>
